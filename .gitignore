@@ -1,0 +1,7 @@
+*.egg-info
+*.exp
+*.lib
+*.pyd
+*_wrap.c
+build
+fixtures
